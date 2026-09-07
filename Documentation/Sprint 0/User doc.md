@@ -45,9 +45,5 @@ TABLE OF CONTENTS
 
 - 8.1 Viewing the Current Rankings
 - 8.2 Ranking Updates
-
-9. Frequently Asked Questions
-
-10. Troubleshooting
-
-11. Contact and Support
+  
+9. Conclusion
