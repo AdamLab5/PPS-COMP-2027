@@ -4,6 +4,18 @@
 
 </br>
 
+- **Contexte**
+	- Nous devons mettre en place une application de gestion de compétition (potentiellement réutilisable) pour la PPS
+
+- **Problèmatique**
+	- Date limite à fin décembre 2026
+ 	- Projet en groupe
+  	- Vrai client (situation réelle)
+
+---
+
+</br>
+
 - **Inscription**
 	- Nom/Prénom
 	- Catégorie (H/F)
