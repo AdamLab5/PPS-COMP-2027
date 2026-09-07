@@ -1,33 +1,37 @@
-# Réunion 1 - PPS
+# Réunion 1 - PPS
 
-# L'application doit prendre en charge
+## L'application doit prendre en charge
 
 </br>
 
-	- **Inscription**\
-		- Nom/Prénom\
-		- Catégorie (H/F)\
-		- Compétition séparée\
-			- Compétition pompier\
-			- Compétition publique
+- **Inscription**
+	- Nom/Prénom
+	- Catégorie (H/F)
+	- Compétition séparée
+		- Compétition pompier
+		- Compétition publique
 
-	- **Participation**\
-		- "Participant n°X points"\
-		- Un atelier est une série d'épreuves\
-			- manche matin\
-			- manche après-midi\
-			- 2nd journée
+- **Participation**
+	- "Participant n°X points"
+	- Un atelier est une série d'épreuves
+		- manche matin
+		- manche après-midi
+		- 2nd journée
 
-	- **Barème**\
-		- Gestionnaire d'épreuve (créer une épreuve avec notation au choix):\
-			- pts de temps\
-			- nombre de saut en parapente\
-			- etc...\
-		- Bénévole (attribue les points)\
-		- Comité (litiges / points négatifs/ retraits de points)\
-		- Utilisateur (peut uniquement voir les classements en direct)\
-		- Classement par jour/ classement final (refresh fréquent?)\
-		- Classement avec ou sans afichage des points (switch l'affichage?)
+- **Barème**
+	- Gestionnaire d'épreuve (créer une épreuve avec notation au choix):
+		- pts de temps
+		- nombre de saut en parapente
+		- etc...
+	- Bénévole (attribue les points)
+	- Comité (litiges / points négatifs/ retraits de points)
+	- Utilisateur (peut uniquement voir les classements en direct)
+	- Classement par jour/ classement final (refresh fréquent?)
+	- Classement avec ou sans afichage des points (switch l'affichage?)
+
+</br>
+
+---
 
 **À mettre en place rapidement :**\
 	- User stories\
