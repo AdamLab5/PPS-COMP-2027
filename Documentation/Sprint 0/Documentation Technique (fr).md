@@ -36,11 +36,15 @@
 
 ### 1.1 Contexte du projet
 
-*À compléter.*
+Le club de parapente Parapente Pays de Sault (PPS), situé dans l'Aude, organisera à l'été 2027 le Championnat de France Pompiers de Parapente.
+Actuellement, l'organisation de cette compétition repose principalement sur l'utilisation de documents papier et de fichiers Excel. Les informations et les résultats sont collectés et traités manuellement, notamment afin de réaliser les classements provisoires à la fin de chaque journée.
+Afin de moderniser et de simplifier ce processus, le club souhaite mettre en place une solution numérique permettant de centraliser les différentes informations liées à la compétition et de faciliter leur gestion.
 
 ### 1.2 Objectifs
 
-*À compléter.*
+L'objectif du projet est de concevoir et de développer une application web dédiée à la gestion d'une compétition de parapente.
+Cette application devra être accessible depuis différents types d'appareils, notamment les ordinateurs et les smartphones, afin de faciliter son utilisation par les organisateurs et les différents utilisateurs de la plateforme.
+Les principales fonctionnalités envisagées concernent notamment la gestion des inscriptions, des participants, des différentes épreuves, des résultats et des classements. L'application devra également permettre de faciliter l'accès aux informations et, selon les besoins du client, de proposer une mise à jour des données en quasi temps réel.
 
 ---
 
