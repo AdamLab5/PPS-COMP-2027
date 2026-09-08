@@ -113,7 +113,7 @@
 
 ### 6.1 Frontend
 
-- **Framework** : React (ou Next.js).
+- **Framework** : React (ou Node.js).
 - **Style** : Tailwind CSS, pour un rendu responsive sur **PC** et **mobile**.
 - **Librairie de bracket** : utilisation d'une librairie existante (ex. `@g-loot/react-tournament-brackets`) plutôt que du développement custom.
 
