@@ -1,0 +1,106 @@
+= PPS-COMPETITION-2027
+:toc:
+:toc-title: Sommaire
+
+//---------------------------------------------------------------
+
+== 1. Contexte général du projet
+
+Le projet PPS-COMP-2027 consiste à développer une application web destinée à fluidifier le processus d’organisation d’une compétition de parapente, à paramétrer les calculs associés (scores, classements, etc.) et à fournir des informations en quasi temps réel aux participants et organisateurs.
+
+L'objectif de ce projet est de proposer une plateforme permettant :
+
+* la gestion des participants et des inscriptions,
+* le paramétrage des règles et calculs propres à la compétition,
+* le suivi des résultats et classements en quasi temps réel,
+* un espace dédié à l'organisation et au pilotage de la compétition,
+
+
+== 2. Réalisations
+
+=== 2.1 Pour accéder au site
+
+_W.I.P_
+
+=== 2.2 Pour accéder à l'application sur PC
+
+_W.I.P_
+
+=== 2.3 Pour accéder à l'application sur mobile
+
+_W.I.P_
+
+== 3. Gestion de projet & Qualité
+
+_W.I.P_
+
+== 4. Livrables et état d'avancement
+
+=== 4.1 Backlog produit: PPS-COMP-2027
+
+==== 4.1.1 Sprint 0
+
+[cols="1,3,2", options="header"]
+|===
+| Date
+| Nom de l'issue
+| Lien
+
+|
+|
+|
+|===
+
+==== 4.1.2 Sprint 1
+
+[cols="1,3,2", options="header"]
+|===
+| Date
+| Nom de l'issue
+| Lien
+
+|
+|
+|
+|===
+
+==== 4.1.3 Sprint 2
+
+[cols="1,3,2", options="header"]
+|===
+| Date
+| Nom de l'issue
+| Lien
+
+|
+|
+|
+|===
+
+=== 4.2 Informations complémentaires
+
+- Version courante : _Release à sortir_
+- Lien vers la doc technique générale : _W.I.P_
+- Lien vers la doc utilisateur générale : _W.I.P_
+- Liste des User Stories (ToDo/En cours/Fait) : _W.I.P_
+
+== 5. Contributeurs
+
+++++
+<table>
+<tr>
+<td align="center"><a href="https://github.com/ZakapiaFR"><img src="https://github.com/ZakapiaFR.png" width="70"></a></td>
+<td align="center"><a href="https://github.com/AdamLab5"><img src="https://github.com/AdamLab5.png" width="70"></a></td>
+<td align="center"><a href="https://github.com/hanhai9"><img src="https://github.com/hanhai9.png" width="70"></a></td>
+<td align="center"><a href="https://github.com/Antokkk7"><img src="https://github.com/Antokkk7.png" width="70"></a></td>
+</tr>
+<tr>
+<td align="center"><b>ZakapiaFR</b><br>Développeur</td>
+<td align="center"><b>AdamLab5</b><br>Chef de projet</td>
+<td align="center"><b>hanhai9</b><br>Développeur</td>
+<td align="center"><b>Antokkk7</b><br>Product Owner</td>
+</tr>
+</table>
+++++
+
+Clients du projet:: Jean Marie Rolando, Jean-Michel Bruel
