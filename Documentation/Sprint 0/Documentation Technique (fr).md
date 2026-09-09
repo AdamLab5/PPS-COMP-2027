@@ -52,13 +52,28 @@ Les principales fonctionnalités envisagées concernent notamment la gestion des
 
 ### 2.1 Exigences fonctionnelles
 
-*À compléter.*
+Les exigences fonctionnelles seront précisées et validées progressivement avec le client.
+À ce stade, les principales fonctionnalités envisagées sont les suivantes :
+Gestion des inscriptions des participants.
+Gestion des participants.
+Gestion de différentes épreuves.
+Gestion et saisie des résultats.
+Calcul et affichage des classements.
+Mise à jour des informations et des classements en quasi temps réel.
+
 
 ### 2.2 Exigences non fonctionnelles
 
 - **Multiplateforme** : l'application doit être disponible et pleinement fonctionnelle à la fois sur PC (web/desktop) et sur mobile (responsive ou application mobile dédiée).
 
-*Autres exigences à compléter.*
+Multiplateforme
+L'application doit être accessible et pleinement fonctionnelle depuis un ordinateur et un smartphone.
+L'interface devra s'adapter aux différents formats d'écran afin de garantir une utilisation confortable sur les différents appareils.
+Ergonomie et simplicité d'utilisation
+L'application devra être conçue de manière à être facilement utilisable par des personnes non informaticiennes.
+Les différentes fonctionnalités devront être accessibles de manière claire et intuitive, sans nécessiter de connaissances techniques particulières.
+Autres exigences
+Les autres exigences non fonctionnelles, notamment concernant la sécurité, les performances, l'accessibilité et le déploiement, seront précisées avec le client au cours du projet.
 
 ### 2.3 Utilisateurs et rôles
 
