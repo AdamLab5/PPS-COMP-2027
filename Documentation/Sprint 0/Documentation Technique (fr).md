@@ -77,8 +77,9 @@ Autres exigences
 
 ### 2.3 Utilisateurs et rôles
 
-- administrateur qui gère les épreuves et participe
-- participants qui s'inscrivent pour participer à l'épreuve et qui peuvent consulter leur classement
+- Administrateur qui gère les épreuves et participe
+- Bénévoles qui rentrent les scores
+- Participants/Utilisateurs qui s'inscrivent pour participer à l'épreuve et qui peuvent consulter leur classement
 ---
 
 ## 3. Cas d'utilisation
