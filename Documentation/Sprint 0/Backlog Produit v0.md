@@ -6,7 +6,7 @@
 
 | ID | Tâche | Description | Responsable | Estimation | Statut |
 |---|---|---|---|---|---|
-| T-01 |  |  |  |  |  |
+| T-01 | US #01 | En tant que gestionnaire, je veux inscrire un participant avec son nom/prénom. |  |  |  |
 | T-02 |  |  |  |  |  |
 | T-03 |  |  |  |  |  |
 | T-04 |  |  |  |  |  |
