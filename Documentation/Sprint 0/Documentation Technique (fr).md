@@ -85,11 +85,13 @@ Autres exigences
 
 ### 3.1 Diagramme de cas d'utilisation
 
-*À compléter.*
+![Use case v0](./Use%20case%20v0.png)
 
 ### 3.2 Description des cas d'utilisation
 
-*À compléter.*
+- Les participants peuvent créer un compte, puis se connecter et s'inscrire
+- Les administrateurs peuvent se connecter avec leur compte pour préparer, créer et gérer des épreuves
+- Tout le monde peut consulter le classement
 
 ---
 
